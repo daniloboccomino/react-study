@@ -10,7 +10,7 @@ Curso de React da [Origamid](https://www.origamid.com/curso/react-completo/)
 
 - [Javascript](#javascript)
 - [JSX](/jsx)
-- [Components](/components/readme.md)
+- [Components](/components)
 
 &nbsp;  
 &nbsp;  
