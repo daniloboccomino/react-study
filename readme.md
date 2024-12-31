@@ -13,6 +13,7 @@ Curso de React da [Origamid](https://www.origamid.com/curso/react-completo/)
 - [Components](/components)
 - [Hooks](/hooks)
   - [useState](/hooks/#usestate)
+  - [useEffect](/hooks/#useeffect)
 
 &nbsp;  
 &nbsp;  
