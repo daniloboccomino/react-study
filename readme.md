@@ -16,6 +16,7 @@ Curso de React da [Origamid](https://www.origamid.com/curso/react-completo/)
   - [useEffect](/hooks/#useeffect)
   - [useRef](/hooks/#useref)
   - [useContext](/hooks/#usecontext)
+  - [Custom Hooks](/hooks/#custom-hooks)
 
 &nbsp;  
 &nbsp;  
