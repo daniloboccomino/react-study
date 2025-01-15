@@ -17,6 +17,7 @@ Curso de React da [Origamid](https://www.origamid.com/curso/react-completo/)
   - [useRef](/hooks/#useref)
   - [useContext](/hooks/#usecontext)
   - [Custom Hooks](/hooks/#custom-hooks)
+- [Formulários](/forms)
 
 &nbsp;  
 &nbsp;  
