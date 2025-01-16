@@ -1,6 +1,6 @@
 ## CSS Frameworks
 
-React permite adicionar qualquer framework de css, como por exemplo o Bootstrap. Bastar executar o comando `npm install bootstrap` e importar as dependências no projeto.
+React permite adicionar qualquer framework de css, como por exemplo o [Bootstrap](https://getbootstrap.com/). Bastar executar o comando `npm install bootstrap` e importar as dependências no projeto.
 
 ```jsx
 import React from 'react'
@@ -36,7 +36,7 @@ const App = () => {
 }
 ```
 
-Existem frameworks de CSS que te fornecem componentes prontos para serem utilizados. O `react-bootstrap` utiliza em sua base o bootstrap, mas fornece componentes React. A instalação é similar ao Bootstrap: `npm install react-bootstrap bootstrap`.
+Existem frameworks de CSS que te fornecem componentes prontos para serem utilizados. O [React Bootstrap](https://react-bootstrap.github.io/) utiliza em sua base o Bootstrap, mas fornece componentes React. A instalação é similar ao Bootstrap: `npm install react-bootstrap bootstrap`.
 
 ```jsx
 import Card from 'react-bootstrap/Card'

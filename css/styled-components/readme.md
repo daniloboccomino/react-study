@@ -1,4 +1,4 @@
-## Styled Components
+## [Styled Components](https://styled-components.com/)
 
 Permite escrevermos o CSS diretamente no JavaScript. Ao invés de classes, criamos componentes com um estilo único. O `styled` é um objeto com diferentes métodos que representam as tags de HTML.
 
