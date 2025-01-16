@@ -26,7 +26,7 @@ Curso de React da [Origamid](https://www.origamid.com/curso/react-completo/)
 
 # JAVASCRIPT
 
-Alguns conceitos de Javascript são muito utilziados em React, tais como:
+Alguns conceitos de Javascript são muito utilizados em React, tais como:
 
 ## Destructuring
 
