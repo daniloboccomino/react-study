@@ -27,7 +27,7 @@ import styles from './Produto.module.css'
 
 const Produto = () => {
   return (
-    <div>
+    <div className='classeGlobal'>
       <h1 className={styles.tituloPrincipal}>Notebook</h1>
       <p className={styles.preco}>R$2000</p>
       <button>Comprar</button>
@@ -45,6 +45,11 @@ Também é recomendado utilizar camelCase `tituloPrincipal`, já que o nome da 
 
 .preco {
   font-weight: bold;
+}
+
+/* função do CSS Modules para não criar uma classe única gerada pelo CSS Modules */
+:global(.classeGlobal) {
+  /* css */
 }
 ```
 

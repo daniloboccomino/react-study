@@ -73,31 +73,16 @@ import './Header.css'
 import { NavLink } from 'react-router-dom'
 
 const Header = () => {
-  // o uso da propriedade activeStyle do NavLink substitui a necessidade de importar um css
-  const activeStyle = {
-    color: 'tomato',
-  }
   return (
     <nav>
       <NavLink
         to='/'
         end
-        activeStyle={activeStyle}
       >
         Home
       </NavLink>
-      <NavLink
-        to='sobre'
-        activeStyle={activeStyle}
-      >
-        Sobre
-      </NavLink>
-      <NavLink
-        to='contato'
-        activeStyle={activeStyle}
-      >
-        Contato
-      </NavLink>
+      <NavLink to='sobre'>Sobre</NavLink>
+      <NavLink to='contato'>Contato</NavLink>
     </nav>
   )
 }
